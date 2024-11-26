@@ -2,10 +2,15 @@
 
 - ### [Redesign Jobstreet Academic Activity](https://www.figma.com/proto/ffARtcYuxURBbo88AaJDWx/Redesign-JobStreet?node-id=36-46&starting-point-node-id=36%3A46)
 
-<p align="center">
-  <img src="./Image/Redesign my.png" alt="My Prototype" width="510" />
-  <img src="./Image/redesign old.png" alt="Jobstreet Login Page" width="510" />
-</p>
+  <figure style="display: inline-block; margin: 0 10px; text-align: center;">
+    <figcaption><h3>My Prototype</h3></figcaption>
+    <img src="./Image/Redesign my.png" alt="My Prototype" width="510" />
+  </figure>
+  <figure style="display: inline-block; margin: 0 10px; text-align: center;">
+    <figcaption><h3>Old Jobstreet Login Page</h3></figcaption>
+    <img src="./Image/redesign old.png" alt="Jobstreet Login Page" width="510" />
+  </figure>
+
 
 - ### [Five Guys Ordering System Prototype Academic Activity](https://www.figma.com/proto/EuBryi4ajMdFewXYdxdiHe/Five-Guys-Food-Ordering-System?node-id=2-55&starting-point-node-id=2%3A55)
 
